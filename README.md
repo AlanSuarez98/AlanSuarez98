@@ -1,5 +1,6 @@
-<img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
+### Hi, I´m Alan 👋👨‍💻
 
+<img src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" width = "550" height = "400">
 
 <p><em>A technical student at <a href="https://frro.cvg.utn.edu.ar/">NATIONAL TECHNOLOGICAL UNIVERSITY</a>, 
 specialization in programming. 😊</br>
