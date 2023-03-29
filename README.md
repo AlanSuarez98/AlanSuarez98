@@ -25,7 +25,7 @@ const aboutMe = {
       BackEnd: {
          Python: ["Django"],
    },
-   currentOccupation: ["Programming Technician student"],
+      currentOccupation: ["Programming Technician student"],
 };
 ```
 ---
