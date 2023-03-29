@@ -22,8 +22,8 @@ const aboutMe = {
       databases: { 
          ["mySQL", "SQLServer", "SQLlite"],
    },
-   BackEnd: {
-      Python: ["Django"],
+      BackEnd: {
+         Python: ["Django"],
    },
    currentOccupation: ["Programming Technician student"],
 };
