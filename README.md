@@ -12,12 +12,18 @@ specialization in programming. 😊</br>
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS, Python, C, C++],
+   code: [Javascript, HTML, CSS, Python, C],
    technologies: {
-      frontEnd: {
+      FrontEnd: {
+         HTML
          css: ["Bootstrap"]
+         JS
       },
-      databases: ["mySQL", "SQLServer"],
+      databases: { 
+         ["mySQL", "SQLServer", "SQLlite"],
+   },
+   BackEnd: {
+      Python: ["Django"],
    },
    currentOccupation: ["Programming Technician student"],
 };
