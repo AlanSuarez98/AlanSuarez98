@@ -17,7 +17,7 @@ const aboutMe = {
       FrontEnd: {
          HTML
          css: ["Bootstrap"]
-         JS
+         JS: ["ReactJS"]
       },
       databases: { 
          ["mySQL", "SQLServer", "SQLlite"],
